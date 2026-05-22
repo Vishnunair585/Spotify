@@ -1,5 +1,7 @@
-This is the portfolio i created inorder to showcase my progress over the journey i had taken to excel in the world of technology
+This is the project i build inorder to strengthen my knowledge on the Frontend frameworks like HTML, CSS and JavaScript 
 
-This project was completely build using Typescript and few React based frameworks 
+It's just a static version of the Spotify app and won't contain the exact functionality you would find in spotify
 
-Do check the website and tell me your opinions on this website "https://my-portfolio.vishnumnair595.workers.dev/"
+Its just a project i build out of my curiosity!!!
+
+So, do share your opinions!
