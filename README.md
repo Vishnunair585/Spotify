@@ -5,3 +5,4 @@ It's just a static version of the Spotify app and won't contain the exact functi
 Its just a project i build out of my curiosity!!!
 
 So, do share your opinions!
+
